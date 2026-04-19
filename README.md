@@ -3,6 +3,8 @@
 A simple textarea with a **live character counter** built using HTML, CSS, and JavaScript.
 
 ---
+## preview
+https://github.com/devkumar3631/restricted-textarea
 
 ## 📸 Screenshot
 
